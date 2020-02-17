@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "web-page-scraping",
+  "version": "1.0.0",
+  "description": "Extracts data from web pages",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node  --experimental-modules src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostasLamogiannis/page-scraping.git"
+  },
+  "author": "Konstantinos Lamogiannis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostasLamogiannis/page-scraping/issues"
+  },
+  "homepage": "https://github.com/kostasLamogiannis/page-scraping#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
