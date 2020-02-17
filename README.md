@@ -1,3 +1,3 @@
 # page-scraping
 
-npm run start
+Please use `npm run start` to run.
